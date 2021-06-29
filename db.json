@@ -117,7 +117,14 @@
     "suffer_score": 162
   }
 ],
-  "profile": {
-    "name": "typicode"
-  }
+  "strava-oauth-refresh": {
+  "expires_at": 2540030209,
+  "refresh_token": "1234567",
+  "access_token": "1234567",
+  "id": "1"
+},
+  "mulesoft-voucher-generate": {
+  "voucherId": "10-euro-discount-voucher",
+  "voucherCode": "1ad350d4-5dbe-4981-96e4-892bf4b13fe4"
+}
 }
